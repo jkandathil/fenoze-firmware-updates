@@ -1,0 +1,5 @@
+{
+    "version": "v1.0.5",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/firmware/firmware.bin.enc",
+    "model_url": "http://192.168.2.106:8000/feno_model.tflite"
+}
