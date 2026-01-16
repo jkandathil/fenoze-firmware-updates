@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.5",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.5.bin",
-    "model_url": "http://192.168.2.106:8000/feno_model.tflite"
+    "version": "v1.0.17",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.17.bin",
+    "notes": "Model retraining (<5ppb target), reduced batch size, resume capability."
 }
