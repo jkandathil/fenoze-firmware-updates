@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.35",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.35.bin",
-    "release_notes": "Wider Flow Range (40-60) & Thicker Solid Ring (6px)."
+    "version": "v1.0.36",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.36.bin",
+    "release_notes": "Implemented Zero-Flicker Conditional Update for Solid Ring."
 }

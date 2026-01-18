@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.35",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.35.bin",
-    "release_notes": "Visually wider ring range (65px-115px), Thicker (6px)."
+    "version": "v1.0.36",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.36.bin",
+    "release_notes": "Zero flicker ring update."
 }
