@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.24",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.24.bin",
-    "release_notes": "Reverted animation physics to stable V3 implementation (clean, no artifacts). Skipped 'Blow Harder' state."
+    "version": "v1.0.25",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.25.bin",
+    "release_notes": "Standard V3 with 10% large particles. Skipped 'Blow Harder' state."
 }
