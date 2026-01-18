@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.36",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.36.bin",
-    "release_notes": "Implemented Zero-Flicker Conditional Update for Solid Ring."
+    "version": "v1.0.37",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.37.bin",
+    "release_notes": "Slightly increased particle ring band width."
 }

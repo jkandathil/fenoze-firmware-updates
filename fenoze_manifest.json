@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.36",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.36.bin",
-    "release_notes": "Zero flicker ring update."
+    "version": "v1.0.37",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.37.bin",
+    "release_notes": "Increased particle band thickness."
 }
