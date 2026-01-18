@@ -1,7 +1,5 @@
-```json
 {
-    "version": "v1.0.22",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.22.bin",
-    "release_notes": "Fix version display, v3 animation logic."
+    "version": "v1.0.23",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.23.bin",
+    "release_notes": "Physics update."
 }
-```
