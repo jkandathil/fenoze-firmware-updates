@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.30",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.30.bin",
-    "release_notes": "Increased solid ring thickness to 4px (approx 3.5 request)."
+    "version": "v1.0.31",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.31.bin",
+    "release_notes": "Increased large particles to 8%. Optimized drawing loop."
 }
