@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.29",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.29.bin",
-    "release_notes": "Optimized drawing loop (batched SPI)."
+    "version": "v1.0.30",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.30.bin",
+    "release_notes": "Increased solid ring thickness to 4px."
 }
