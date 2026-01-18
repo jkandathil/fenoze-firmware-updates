@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.33",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.33.bin",
-    "release_notes": "Reverted Canvas due to crash. Direct Draw with Batched SPI. 8% Large Particles."
+    "version": "v1.0.34",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.34.bin",
+    "release_notes": "Internal cleanup: Renamed ring animation globals to avoid conflicts."
 }
