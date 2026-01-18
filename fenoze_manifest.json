@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.23",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.23.bin",
-    "release_notes": "Physics update."
+    "version": "v1.0.24",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.24.bin",
+    "release_notes": "Reverted animation physics."
 }
