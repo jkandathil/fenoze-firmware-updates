@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.20",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.20.bin",
+    "version": "v1.0.21",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.21.bin",
     "model_url": "embedded"
 }
