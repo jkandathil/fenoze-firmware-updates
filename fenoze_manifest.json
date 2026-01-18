@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.31",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.31.bin",
-    "release_notes": "Increased large particles to 8%."
+    "version": "v1.0.32",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.32.bin",
+    "release_notes": "Impl Double Buffering (Canvas) for smooth animation."
 }
