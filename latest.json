@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.42",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.42.bin",
-    "release_notes": "Restored v34 logic & Fixed Flow Feedback Order."
+    "version": "v1.0.43",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.43.bin",
+    "release_notes": "restored PSRAM Double Buffering (Smooth Anim) & Fixed Flow Feedback Order."
 }
