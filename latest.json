@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.40",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.40.bin",
-    "release_notes": "Reverted to v37 rendering (Direct/Smart Erase) but Fixed Flow Order."
+    "version": "v1.0.41",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.41.bin",
+    "release_notes": "Restored v35 code (Ranges/Thickness) & Fixed Flow Feedback Order."
 }
