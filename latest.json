@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.39",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.39.bin",
-    "release_notes": "Impl PSRAM Double Buffering to fix trails and accumulation."
+    "version": "v1.0.40",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.40.bin",
+    "release_notes": "Reverted to v37 rendering (Direct/Smart Erase) but Fixed Flow Order."
 }
