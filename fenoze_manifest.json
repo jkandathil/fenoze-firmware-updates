@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.38",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.38.bin",
-    "release_notes": "Collision-Based De-Flicker."
+    "version": "v1.0.39",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.39.bin",
+    "release_notes": "PSRAM Double Buffer Fix."
 }
