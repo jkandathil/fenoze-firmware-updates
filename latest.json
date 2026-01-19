@@ -1,5 +1,5 @@
 {
-    "version": "v1.0.43",
-    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.43.bin",
-    "release_notes": "restored PSRAM Double Buffering (Smooth Anim) & Fixed Flow Feedback Order."
+    "version": "v1.0.44",
+    "firmware_url": "https://raw.githubusercontent.com/jkandathil/fenoze-firmware-updates/main/fenoze_v1.0.44.bin",
+    "release_notes": "Increased PSRAM Buffer Size (360x360) to fix large ring clipping."
 }
